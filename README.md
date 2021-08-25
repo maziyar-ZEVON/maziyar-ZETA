@@ -28,6 +28,7 @@ const Language = ["JavaScript"];
 [<img align="left" alt="DiscordBio" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/discord-2474808-2056094.png" />][discord]
 [<img align="left" alt="Instagram" width="22px" src="https://media.discordapp.net/attachments/876907077203812354/879814776925085746/images__1_-removebg-preview.png" />][instagram]
 [<img align="left" alt="NEON TEAM" width="22px" src="https://media.discordapp.net/attachments/876907077203812354/879814262250434600/unknown.png" />][neon]
+[<img align="left" alt="Zeyron | Hilda Support" width="22px" src="https://media.discordapp.net/attachments/873959541656682506/878304661914927114/PicsArt_03-31-07.15.22.png" />][zeyron]
 
 <br />
 
@@ -49,3 +50,4 @@ const Language = ["JavaScript"];
 [discord]: https://discords.com/bio/p/0207
 [instagram]: https://www.instagram.com/maziyar._.zeta/
 [neon]: https://discord.gg/6af7YeMuKw
+[zeyron]: https://discord.gg/4a9EwWnH
