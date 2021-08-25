@@ -37,6 +37,14 @@ const Language = ["JavaScript"];
 <hr>
 <br>
 
+## ***Discord Status:***
+
+<a href="https://discords.com/bio/p/0207">
+<img src="https://discord.c99.nl/widget/theme-4/755845800701198386.png"/>
+  </a><br>
+<hr>
+<br>
+
 
 [discord]: https://discords.com/bio/p/0207
 [instagram]: https://www.instagram.com/maziyar._.zeta/
