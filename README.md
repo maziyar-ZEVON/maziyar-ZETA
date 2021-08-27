@@ -32,7 +32,7 @@ const Language = ["JavaScript"];
 
 <br />
 
-## ***Github:***
+## ***GitHub:***
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maziyar-ZETA&show_icons=true&locale=en&layout=compact&theme=radical" withd="100px" height="200px" alt="github"/><img src="https://github-readme-stats.vercel.app/api?username=maziyar-ZETA&show_icons=true&locale=en&theme=radical" withd="100px" height="200px" alt="github"/>
 <hr>
