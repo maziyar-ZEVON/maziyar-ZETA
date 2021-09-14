@@ -1,8 +1,4 @@
-<h1 align="center"><em>Hi There 👋</em></h1>
-<hr/>
-<br/>
-<br/>
-<i><h2>I'm Maziyar ZETA </h2></i>
+<h1 align="center"><em>Hi, I'm Maziyar 👋</em></h1>
 <hr/>
 <br/>
 <br>
